@@ -1,0 +1,2 @@
+this code is used as game in which Desktop will tell you to do some math calculation with unkown number which you have in your mind. 
+now Desktop will find out what is end result.
