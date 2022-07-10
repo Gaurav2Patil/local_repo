@@ -29,6 +29,7 @@ def Guess_the_no():
         else:
             continue
 game = Guess_the_no()
+print("changes done.")
 #pen = False
 #while pen == False:
 #    m = 
