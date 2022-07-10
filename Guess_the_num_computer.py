@@ -29,12 +29,12 @@ def Guess_the_no():
         else:
             continue
 game = Guess_the_no()
-pen = False
-while pen == False:
-    m = input("Do you want to Play agian (y/n) ?")
-    if m =="y":
-        game = Guess_the_no()
-    elif m=="n":
-        break
-    else :
-        continue
+#pen = False
+#while pen == False:
+#    m = input("Do you want to Play agian (y/n) ?")
+#    if m =="y":
+#        game = Guess_the_no()
+#   elif m=="n":
+#        break
+#    else :
+#        continue
