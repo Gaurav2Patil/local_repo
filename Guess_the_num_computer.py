@@ -21,7 +21,7 @@ def Guess_the_no():
         if i==5:
             print("Your no is ",D,"...HA HAA! \ni win because i'm smart. \nnow upgrade my Hardware Buddy.")
             break
-        a = input("Have you done ?....(y/n)")
+        a = "y"
         if a=="y":
             i+=1
         elif a=="n":
@@ -31,7 +31,7 @@ def Guess_the_no():
 game = Guess_the_no()
 #pen = False
 #while pen == False:
-#    m = input("Do you want to Play agian (y/n) ?")
+#    m = 
 #    if m =="y":
 #        game = Guess_the_no()
 #   elif m=="n":
